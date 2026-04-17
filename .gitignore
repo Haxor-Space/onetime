@@ -1,0 +1,5 @@
+# Environment variables – never commit these
+.env
+
+# nginx basic-auth credentials – never commit these
+nginx/.htpasswd
